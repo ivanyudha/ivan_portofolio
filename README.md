@@ -14,3 +14,15 @@ Analytics Portofolio
 
 * Finishing various task related with the activity of Data Engineer from Kalbe Nutritionals, such as Data Analysis and Modeling, ETL and ELT and Developing ETL Process
 * Constructed SQL databases and developed ETL pipelines to securely collect data from multiple teams.
+
+
+
+
+
+
+
+
+
+
+
+
