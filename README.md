@@ -8,3 +8,5 @@ Analytics Portofolio
 * increase the conversion rate of marketing campaigns so that the marketing strategy is successful
 * create a prediction model that can classify users who have the potential to receive the campaign offered.
 * The first stage carried out is EDA (Exploratory Data Analysis)
+
+
