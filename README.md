@@ -10,3 +10,7 @@ Analytics Portofolio
 * The first stage carried out is EDA (Exploratory Data Analysis)
 
 
+# [Project 2: Data Engineer Intern](https://github.com/ivanyudha/Kalbe-Nutritionals)
+
+* Finishing various task related with the activity of Data Engineer from Kalbe Nutritionals, such as Data Analysis and Modeling, ETL and ELT and Developing ETL Process
+* Constructed SQL databases and developed ETL pipelines to securely collect data from multiple teams.
