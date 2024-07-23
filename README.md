@@ -43,7 +43,7 @@ Data Portofolio
 * The "Analyzing eCommerce Business Performance with SQL" project provides in-depth insights into eCommerce sales through comprehensive data analysis. By using SQL to extract and analyze sales data, this project helps in making better business decisions and developing more effective strategies to enhance sales performance
 
 
-# [Project 5: Investigate Hotel](https://github.com/ivanyudha/Investigate-Hotel)
+# [Project 6: Investigate Hotel](https://github.com/ivanyudha/Investigate-Hotel)
 
 **Investigate Hotel Business using Data Visualization**
 
